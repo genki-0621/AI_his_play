@@ -1,4 +1,4 @@
-# GENKI_Portforio
+# GENKI_Portfolio
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Java](https://img.shields.io/badge/Java-⬤-orange)
